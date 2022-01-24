@@ -1,0 +1,22 @@
+{
+  "name": "rpg-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irvensd/RPG-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irvensd/RPG-Game/issues"
+  },
+  "homepage": "https://github.com/irvensd/RPG-Game#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
